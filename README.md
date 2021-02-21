@@ -23,7 +23,7 @@
 复制以下URL,然后添加到相应的日历中.
 
 ```
-https://raw.githubusercontent.com/cattail5/classtable-private-hitsz-ics/master/2021-spring-class.ics
+https://raw.githubusercontent.com/cattail5/classtable-private-hitsz-ics/main/2021-spring-class.ics
 ```
 
 ## Credit
