@@ -8,7 +8,9 @@
 
 课表2021-spring-class.ics文件的制作程序出自 [GillBlog@陈某豪](https://chanjh.com/post/0031/ "又到了每年此刻，教你把课程表导入日历") .
 
->在Python 2的基础上通过谷歌搜索修改为Python 3适用.但孩子还没学过Python,excel也不是特别熟练,太难了/(ㄒoㄒ)/.
+>在Python 2的基础上通过谷歌搜索修改为Python 3适用.但孩子还没学过Python,excel也不是特别熟练
+>
+>太难了/(ㄒoㄒ)/.
 
 之后的ics文件将根据 [GitHub@SunsetYe66](https://github.com/SunsetYe66/ClasstableToIcal/ "ClasstableToIcal") 提供的程序制作.
 
