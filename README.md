@@ -13,7 +13,7 @@
 复制以下URL,然后添加到相应的日历中.笔者会在每学期初及时更新.
 
 ```
-https://raw.githubusercontent.com/cattail5/classtable-private-hitsz-ics/main/2021小学期.ics
+https://raw.githubusercontent.com/cattail5/classtable-private-hitsz-ics/main/[filename]
 ```
 
 ## Credit
